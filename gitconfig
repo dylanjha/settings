@@ -1,5 +1,4 @@
-
-lor]
+[color]
 	ui = true
   [color "branch"]
     current = yellow reverse
