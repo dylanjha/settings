@@ -39,6 +39,7 @@ export PATH=/usr/local/pgsql/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/b
 alias ls="ls -a"
 alias be="bundle exec"
 alias ber="bundle exec rake"
+alias g="git"
 
 
 # Fixes slow git completion
