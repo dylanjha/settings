@@ -42,6 +42,7 @@ alias ber="bundle exec rake"
 alias g="git"
 alias r8="rvm use 1.8.7"
 alias r9="rvm use 1.9.3"
+alias rv="ruby -v"
 
 
 # Fixes slow git completion
