@@ -26,6 +26,7 @@
 	df = diff
 	pl = pull
 	ps = push
+	fo = fetch origin
 
 [user]
 	name = Dylan Jhaveri
